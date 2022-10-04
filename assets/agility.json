@@ -1,0 +1,126 @@
+[
+{
+"function": "minecraft:set_attributes",
+"modifiers": [
+{
+  "attribute": "minecraft:generic.movement_speed",
+  "name": "",
+  "amount": 4.0,
+  "operation": "multiply_base",
+  "slot": "feet"
+},
+{
+  "attribute": "minecraft:generic.armor_toughness",
+  "name": "",
+  "amount": 4,
+  "operation": "addition",
+  "slot": "feet"
+},
+{
+  "attribute": "minecraft:generic.armor",
+  "name": "",
+  "amount": 4,
+  "operation": "addition",
+  "slot": "feet"
+},
+{
+  "attribute": "minecraft:generic.knockback_resistance",
+  "name": "",
+  "amount": 4.0,
+  "operation": "addition",
+  "slot": "feet"
+}
+],
+"conditions": [
+{
+  "condition": "entity_properties",
+  "entity": "this",
+  "predicate": "{ nbt: {Item:{id:\"dg\",tag:{CustomEnchantments:[{id:\"Agility\",lvl:1}]}}} }"
+}
+
+]
+},
+{
+"function": "minecraft:set_attributes",
+"modifiers": [
+{
+  "attribute": "minecraft:generic.movement_speed",
+  "name": "",
+  "amount": 8.0,
+  "operation": "multiply_base",
+  "slot": "feet"
+},
+{
+  "attribute": "minecraft:generic.armor_toughness",
+  "name": "",
+  "amount": 4,
+  "operation": "addition",
+  "slot": "feet"
+},
+{
+  "attribute": "minecraft:generic.armor",
+  "name": "",
+  "amount": 4,
+  "operation": "addition",
+  "slot": "feet"
+},
+{
+  "attribute": "minecraft:generic.knockback_resistance",
+  "name": "",
+  "amount": 4.0,
+  "operation": "addition",
+  "slot": "feet"
+}
+],
+"conditions": [
+{
+  "condition": "entity_properties",
+  "entity": "this",
+  "predicate": "{ nbt: {Item:{id:\"dg\",tag:{CustomEnchantments:[{id:\"Agility\",lvl:2}]}}} }"
+}
+
+]
+},
+{
+"function": "minecraft:set_attributes",
+"modifiers": [
+{
+  "attribute": "minecraft:generic.movement_speed",
+  "name": "",
+  "amount": 12,
+  "operation": "multiply_base",
+  "slot": "feet"
+},
+{
+  "attribute": "minecraft:generic.armor_toughness",
+  "name": "",
+  "amount": 4,
+  "operation": "addition",
+  "slot": "feet"
+},
+{
+  "attribute": "minecraft:generic.armor",
+  "name": "",
+  "amount": 4,
+  "operation": "addition",
+  "slot": "feet"
+},
+{
+  "attribute": "minecraft:generic.knockback_resistance",
+  "name": "",
+  "amount": 4.0,
+  "operation": "addition",
+  "slot": "feet"
+}
+],
+"conditions": [
+{
+  "condition": "entity_properties",
+  "entity": "this",
+  "predicate": "{ nbt: {Item:{id:\"dg\",tag:{CustomEnchantments:[{id:\"Agility\",lvl:3}]}}} }"
+}
+
+]
+}
+
+]
