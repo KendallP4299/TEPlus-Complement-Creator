@@ -1,7 +1,8 @@
 # Complement-Creator-for-Technical-Enchant-Renewed-
 
 TE+ Complement Creator for version 7.0.0d
-===GREETINGS!=================================================================================
+===GREETINGS!=================================================================
+
 This application, made by Kendall Payton(Ziromanean#3173 on discord), 
 is for the creation of custom complements to the "Technical Enchant+ Renewed"! Datapack (created by Frektip)
 In this app, you can add many different items and blocks to the datapacks' functionality
