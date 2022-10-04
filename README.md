@@ -11,7 +11,7 @@ and is intended to add mod support to TE+ Renewed by allowing the user to add wh
 To run this software, open the "TE+ Datapack Creator.exe" file.
 When you're finished adding items, press the "Build" button at the bottom left to create a complement.
 This zip file will be saved to the desktop.
-============================================================================================================
+
 
 Below is a list of the types of items that can be added thus far:
 =================================================================
