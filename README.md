@@ -1,6 +1,6 @@
 # Complement-Creator-for-Technical-Enchant-Renewed
 
-TE+ Complement Creator for version 7.0.0d
+TE+ Complement Creator for TE+ Renewed version 7.0.0d
 ===GREETINGS!=================================================================
 
 This application, made by Kendall Payton(Ziromanean#3173 on discord), 
