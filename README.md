@@ -54,6 +54,7 @@ Both allow for the user to specify the amount of basic Armor, Armor Toughness, a
 Life Plus or Agility enchantment is added to the armor pieces.
 
 Toughness and Armor are measured in whole numbers while Knockback is measured as a decimal (ex. 0.4), and if nothing is inputted, will default to 0.0
-Technically you can make this value whatever you wish, but bugs may occur, so perform at your own risk!
+
+(Technically you can make this value whatever you wish, but bugs may occur, so perform at your own risk!)
 
 As always, if you encounter any errors or bugs please ping me on the FrekTip Plus Discord server @Ziromanean, for assistance.
