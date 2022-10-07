@@ -1,8 +1,8 @@
 execute if score #autsml Enchopts matches 0 if score #teplus.rarity teplus.data matches 2.. run data modify storage teplus:loot Enchantments append value {id:"AutoSmelt",lvl:1}
-execute if score #mnpl Enchopts matches 0 if score #teplus.rarity teplus.data matches 2.. run data modify storage teplus:loot Enchantments append value {id:"MiningPlus",lvl:1}
-execute if score #vnmr Enchopts matches 0 if score #teplus.rarity teplus.data matches 3.. run data modify storage teplus:loot Enchantments append value {id:"VeinMiner",lvl:1}
+
 execute if score #haste Enchopts matches 0 if score #teplus.rarity teplus.data matches 2.. run data modify storage teplus:loot Enchantments append value {id:"Haste",lvl:1}
 execute if score #haste Enchopts matches 0 if score #teplus.rarity teplus.data matches 2.. run data modify storage teplus:loot Enchantments append value {id:"Haste",lvl:2}
-execute if score #xpbt Enchopts matches 0 if score #teplus.rarity teplus.data matches 3.. run data modify storage teplus:loot Enchantments append value {id:"XpBoost",lvl:1}
-execute if score #xpbt Enchopts matches 0 if score #teplus.rarity teplus.data matches 3.. run data modify storage teplus:loot Enchantments append value {id:"XpBoost",lvl:2}
-execute if score #xpbt Enchopts matches 0 if score #teplus.rarity teplus.data matches 3.. run data modify storage teplus:loot Enchantments append value {id:"XpBoost",lvl:3}
+
+execute if score #mnpl Enchopts matches 0 if score #teplus.rarity teplus.data matches 2.. unless data entity @s Item.tag.CustomEnchantments[{id:"VeinMiner"}] run data modify storage teplus:loot Enchantments append value {id:"MiningPlus",lvl:1}
+
+execute if score #vnmr Enchopts matches 0 if score #teplus.rarity teplus.data matches 3.. unless data entity @s Item.tag.CustomEnchantments[{id:"MiningPlus"}] run data modify storage teplus:loot Enchantments append value {id:"VeinMiner",lvl:1}
