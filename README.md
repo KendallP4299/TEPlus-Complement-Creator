@@ -63,3 +63,6 @@ _**If you would like to reach out with suggestions or help, you can ping me on D
 Also check out Frektip's Planet Minecraft Page for the Original TE+ Renewed Datapack! Without his help, none of this would be possible!**_
 
 https://www.planetminecraft.com/data-pack/technical-enchant-for-1-17/
+
+
+_All Rights Reserved. Do Not Claim As Your Own._
