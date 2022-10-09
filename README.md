@@ -57,4 +57,9 @@ Toughness and Armor are measured in whole numbers while Knockback is measured as
 
 (Technically you can make this value whatever you wish, but bugs may occur, so perform at your own risk!)
 
-As always, if you encounter any errors or bugs please ping me on the FrekTip Plus Discord server @Ziromanean, for assistance.
+
+
+_**If you would like to reach out with suggestions or help, you can ping me on Discord at Ziromanean#3173.
+Also check out Frektip's Planet Minecraft Page for the Original TE+ Renewed Datapack! Without his help, none of this would be possible!**_
+
+https://www.planetminecraft.com/data-pack/technical-enchant-for-1-17/
