@@ -18,7 +18,7 @@ Below is a list of the types of items that can be added thus far:
    * Wood Blocks
    * Stone Blocks
    * Swords, Tridents, Bows, Crossbows, Shields
-   * Pickaxes, Axes, Shovels, Hoes
+   * Pickaxes, Axes, Shovels, Hoes, Fishing Rods
    * Custom Items
    * Armor Sets
 
@@ -26,9 +26,7 @@ THINGS TO ADD
 ==================================================================================================================================================================================
    * Currently there is no Preset Creation and Loading System implemented in this build, 
      so it may seem tedious to type in every item you want to add every time, but it is planned for the next release!
-   * Add fishing rod support
-   * More item interaction options
-   * Complement naming
+   * App Scaling
 
 (CUSTOM ITEMS)
 =========================================================================================
