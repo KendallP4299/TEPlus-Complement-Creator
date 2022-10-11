@@ -24,9 +24,8 @@ Below is a list of the types of items that can be added thus far:
 
 THINGS TO ADD
 ==================================================================================================================================================================================
-   * Currently there is no Preset Creation and Loading System implemented in this build, 
-     so it may seem tedious to type in every item you want to add every time, but it is planned for the next release!
-   * App Scaling
+   * Add Custom Items To Preset Functionality
+   * App Size Scaling
 
 (CUSTOM ITEMS)
 =========================================================================================
