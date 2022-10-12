@@ -15,8 +15,7 @@ This zip file will be saved to the desktop.
 
 Below is a list of the types of items that can be added thus far:
 =================================================================
-   * Wood Blocks
-   * Stone Blocks
+   * Ore Types
    * Swords, Tridents, Bows, Crossbows, Shields
    * Pickaxes, Axes, Shovels, Hoes, Fishing Rods
    * Custom Items
