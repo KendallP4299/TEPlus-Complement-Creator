@@ -9,7 +9,7 @@ In this app, you can add many different items and blocks to the datapacks' funct
 and is intended to add mod support to TE+ Renewed by allowing the user to add whatever items they choose.
 
 To run this software, open the "TE+ Datapack Creator.exe" file.
-When you're finished adding items, press the "Build" button at the bottom left to create a complement.
+When you're finished adding items, press the "Build" button in the bottom menu bar to create a complement.
 This zip file will be saved to the desktop.
 
 
@@ -56,7 +56,7 @@ Toughness and Armor are measured in whole numbers while Knockback is measured as
 
 Credits
 ==================================================
-_**If you would like to reach out with suggestions or help, you can ping me on Discord at Ziromanean#3173.
+_**If you would like to reach out with suggestions or help, you can always ping me on Discord at Ziromanean#3173.
 Also check out Frektip's Planet Minecraft Page for the Original TE+ Renewed Datapack! Without his help, none of this would be possible!**_
 
 https://www.planetminecraft.com/data-pack/technical-enchant-for-1-17/
