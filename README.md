@@ -1,6 +1,9 @@
 # Complement-Creator-for-Technical-Enchant-Renewed
 
-TE+ Complement Creator V1.1.0 for TE+ Renewed version 7.2.2
+TE+ Complement Creator V1.1.1 for TE+ Renewed version 7.2.2
+
+Now scaleable for any display resolution!
+=
 ===GREETINGS!=================================================================
 
 This application, made by Kendall Payton(Ziromanean#3173 on discord), 
@@ -24,7 +27,6 @@ Below is a list of the types of items that can be added thus far:
 THINGS TO ADD
 ==================================================================================================================================================================================
    * Add Custom Items To Preset Functionality
-   * App Size Scaling
 
 (CUSTOM ITEMS)
 =========================================================================================
