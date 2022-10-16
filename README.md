@@ -1,6 +1,6 @@
 # Complement-Creator-for-Technical-Enchant-Renewed
 
-TE+ Complement Creator V1.1.1 for TE+ Renewed version 7.2.2
+TE+ Complement Creator V1.1.1 for TE+ Renewed version 7.2.3
 
 Now scaleable for any display resolution!
 =
