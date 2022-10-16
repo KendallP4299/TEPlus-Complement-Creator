@@ -1,10 +1,9 @@
 # Complement-Creator-for-Technical-Enchant-Renewed
 
-TE+ Complement Creator V1.1.1 for TE+ Renewed version 7.2.3
+TE+ Complement Creator V1.1.2 for TE+ Renewed version 7.2.X
 
-Now scaleable for any display resolution!
-=
-===GREETINGS!=================================================================
+GREETINGS!
+=================================================================
 
 This application, made by Kendall Payton(Ziromanean#3173 on discord), 
 is for the creation of custom complements to the "Technical Enchant+ Renewed"! Datapack (created by Frektip)
@@ -23,10 +22,6 @@ Below is a list of the types of items that can be added thus far:
    * Pickaxes, Axes, Shovels, Hoes, Fishing Rods
    * Custom Items
    * Armor Sets
-
-THINGS TO ADD
-==================================================================================================================================================================================
-   * Add Custom Items To Preset Functionality
 
 (CUSTOM ITEMS)
 =========================================================================================
