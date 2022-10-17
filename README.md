@@ -50,6 +50,12 @@ Toughness and Armor are measured in whole numbers while Knockback is measured as
 
 (Technically you can make this value whatever you wish, but bugs may occur, so perform at your own risk!)
 
+(PRESETS)
+=
+Currently Included Presets:
+  * Gobber2 Mod
+  
+More built-in presets will be added in the future. For now, if you are updating to a newer version, copy over the presetNames.txt and presets folder to the new assets folder.
 
 Credits
 ==================================================
