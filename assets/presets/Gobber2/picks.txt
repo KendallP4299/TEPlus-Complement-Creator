@@ -1,0 +1,6 @@
+"gobber2:gobber2_pickaxe"
+"gobber2:gobber2_pickaxe_nether"
+"gobber2:gobber2_pickaxe_end"
+"gobber2:gobber2_hammer"
+"gobber2:gobber2_hammer_nether"
+"gobber2:gobber2_hammer_end"

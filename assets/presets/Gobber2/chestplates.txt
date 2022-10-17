@@ -1,0 +1,4 @@
+"gobber2:gobber2_chestplate"
+"gobber2:gobber2_chestplate_nether"
+"gobber2:gobber2_chestplate_end"
+"gobber2:gobber2_chestplate_dragon"

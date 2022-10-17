@@ -1,0 +1,4 @@
+"gobber2:gobber2_boots"
+"gobber2:gobber2_boots_nether"
+"gobber2:gobber2_boots_end"
+"gobber2:gobber2_boots_dragon"
