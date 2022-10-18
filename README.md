@@ -40,6 +40,14 @@ Be sure to select at least one, or it won't be added.
    Type - paxel,
    Interactions - (Pickaxe, Axe, Shovel)
 
+(WEAPONS)
+=
+In the Weapons Tab, the sword and trident have a box for entering damage values.
+These values are written as decimal numbers: X.X
+
+(Technically you can make this value whatever you wish, but bugs may occur, so perform at your own risk!)
+
+
 (ARMOR)
 =========================================================================================
 In the Armor Tab, both the chestplate and boots have some extra features.
@@ -48,7 +56,7 @@ Life Plus or Agility enchantment is added to the armor pieces.
 
 Armor, Toughness, and Knockback Resist are measured as a decimal. (ex. 5.0, 2.3, and 0.4 respectively), and if nothing is inputted into knockback, will default to 0.0
 
-(Technically you can make this value whatever you wish, but bugs may occur, so perform at your own risk!)
+(Technically you can make these values whatever you wish, but bugs may occur, so perform at your own risk!)
 
 (PRESETS)
 =
