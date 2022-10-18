@@ -1,6 +1,6 @@
 # Complement-Creator-for-Technical-Enchant-Renewed
 
-TE+ Complement Creator V1.1.3 for TE+ Renewed version 7.2.X
+TE+ Complement Creator V1.1.4 for TE+ Renewed version 7.2.X
 
 GREETINGS!
 =================================================================
@@ -46,7 +46,7 @@ In the Armor Tab, both the chestplate and boots have some extra features.
 Both allow for the user to specify the amount of basic Armor, Armor Toughness, and Knockback Resistance. These values are applied to the item only AFTER the 
 Life Plus or Agility enchantment is added to the armor pieces.
 
-Toughness and Armor are measured in whole numbers while Knockback is measured as a decimal (ex. 0.4), and if nothing is inputted, will default to 0.0
+Armor, Toughness, and Knockback Resist are measured as a decimal. (ex. 5.0, 2.3, and 0.4 respectively), and if nothing is inputted into knockback, will default to 0.0
 
 (Technically you can make this value whatever you wish, but bugs may occur, so perform at your own risk!)
 
@@ -56,6 +56,17 @@ Currently Included Presets:
   * Gobber2 Mod
   
 More built-in presets will be added in the future. For now, if you are updating to a newer version, copy over the presetNames.txt and presets folder to the new assets folder.
+
+(Troubleshooting)
+=
+A troubleshooting button is present on the main menu. 
+If your complement isn't functioning properly when in-game, there could be one or more factors involved.
+These reasons could include:
+   * You don't have the mod for the complement installed
+   * There's a typo in a ID or number value
+   * Complements might be conflicting with one-another
+   * Your creator version is not up-to-date
+If issues still persist, please feel free to contact me and I will try to assist as best I can.
 
 Credits
 ==================================================
