@@ -67,6 +67,7 @@ These reasons could include:
    * Complements might be conflicting with one-another
    * Your creator version is not up-to-date
    * The creator is not yet updated for the latest version of TE+
+
 If issues still persist, please feel free to contact me and I will try to assist as best I can.
 
 Credits
