@@ -10,9 +10,9 @@ is for the creation of custom complements to the "Technical Enchant+ Renewed"! D
 In this app, you can add many different items and blocks to the datapacks' functionality
 and is intended to add mod support to TE+ Renewed by allowing the user to add whatever items they choose.
 
-To run this software, open the "TE+ Datapack Creator.exe" file.
+To use this software, extract these files to a new folder and run the "TE+ Datapack Creator.exe" file.
 When you're finished adding items, press the "Build" button in the bottom menu bar to create a complement.
-This zip file will be saved to a complements folder in assets This is where all complements will be stored.
+A zip file will be saved to a complements folder in assets. This is where all the complements you create, will be stored.
 
 
 Below is a list of the types of items that can be added thus far:
