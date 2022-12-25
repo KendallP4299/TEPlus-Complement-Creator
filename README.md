@@ -1,6 +1,6 @@
 # Complement-Creator-for-Technical-Enchant-Renewed
 
-TE+ Complement Creator V1.1.5 for TE+ Renewed version 7.2.X
+TE+ Complement Creator V1.2.0 for TE+ Renewed version 7.3.0
 
 GREETINGS!
 =================================================================
@@ -18,6 +18,7 @@ A zip file will be saved to a complements folder in assets. This is where all th
 Below is a list of the types of items that can be added thus far:
 =================================================================
    * Ore Types
+   * Shovelable Blocks
    * Swords, Tridents, Bows, Crossbows, Shields
    * Pickaxes, Axes, Shovels, Hoes, Fishing Rods
    * Custom Items
