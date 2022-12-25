@@ -14,6 +14,12 @@ To use this software, extract these files to a new folder and run the "TE+ Datap
 When you're finished adding items, press the "Build" button in the bottom menu bar to create a complement.
 A zip file will be saved to a complements folder in assets. This is where all the complements you create, will be stored.
 
+Now Compatible With stand-alone addons:
+=====
+   * Expertise
+   * Compact
+   * Spawner Touch
+   * Uncover
 
 Below is a list of the types of items that can be added thus far:
 =================================================================
