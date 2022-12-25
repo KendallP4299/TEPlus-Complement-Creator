@@ -1,2 +1,2 @@
-execute if score #bgpt Enchopts matches 0 if data storage teplus:tech_anvil.ench TeplusEnchantments[{id:"BigPath"}] run function technical_anvil:interaction/merge/enchanted_items/big_path
-execute if score #exc Enchopts matches 0 if data storage teplus:tech_anvil.ench TeplusEnchantments[{id:"Excavator"}] run function technical_anvil:interaction/merge/enchanted_items/excavator
+execute if score #bgpt Enchopts matches 0 if data storage teplus:tech_anvil.ench TeplusEnchantments[{id:"BigPath"}] run function technical_anvil:interaction/merge/apply_enchantments/big_path
+execute if score #exc Enchopts matches 0 if data storage teplus:tech_anvil.ench TeplusEnchantments[{id:"Excavator"}] run function technical_anvil:interaction/merge/apply_enchantments/excavator
