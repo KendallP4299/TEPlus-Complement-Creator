@@ -1,6 +1,6 @@
 # Complement-Creator-for-Technical-Enchant-Renewed
 
-TE+ Complement Creator V1.2.0 for TE+ Renewed version 7.3.0
+TE+ Complement Creator V1.2.1 for TE+ Renewed version 7.3.X
 
 GREETINGS!
 =================================================================
@@ -12,6 +12,7 @@ and is intended to add mod support to TE+ Renewed by allowing the user to add wh
 
 To use this software, extract these files to a new folder and run the "TE+ Datapack Creator.exe" file.
 When you're finished adding items, press the "Build" button in the bottom menu bar to create a complement.
+Enter the a unique path name and complement name.
 A zip file will be saved to a complements folder in assets. This is where all the complements you create, will be stored.
 
 Now compatible with stand-alone addons:
