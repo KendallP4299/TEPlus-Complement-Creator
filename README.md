@@ -65,7 +65,8 @@ These values are written as decimal numbers: X.X
 ARMOR
 =========================================================================================
 In the Armor Tab, both the chestplate and boots have some extra features.
-Both allow for the user to specify the amount of basic Armor, Armor Toughness, and Knockback Resistance. These values are applied to the item only AFTER the 
+Both allow for the user to specify the amount of basic Armor, Armor Toughness, and Knockback Resistance. 
+If you choose to enter number value that are different than the default ones on the armor when hovering over the item in-game, these values are applied to the item only AFTER the 
 Life Plus or Agility enchantment is added to the armor pieces.
 
 Armor, Toughness, and Knockback Resist are measured as a decimal. (ex. 5.0, 2.3, and 0.4 respectively), if an armor piece doesn't have one of the three number values, just input 0.
