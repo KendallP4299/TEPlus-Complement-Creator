@@ -1,6 +1,6 @@
 # Complement-Creator-for-Technical-Enchant-Renewed
 
-TE+ Complement Creator V1.2.3 for TE+ Renewed version 7.3.X
+TE+ Complement Creator V2.0.0 for TE+ Renewed version 7.3.X
 
 GREETINGS!
 =================================================================
@@ -31,7 +31,13 @@ Below is a list of the types of items that can be added thus far:
    * Custom Items
    * Armor Sets
 
-(CUSTOM ITEMS)
+Added Items
+=
+On the right side of the app is a display for all the currently added items. If you no longer want to include an item to a complement, or notice a typo, you can select and delete it.
+
+You can also clear all items from the list if want to start from scratch.
+
+CUSTOM ITEMS
 =========================================================================================
 In the Tools Tab, you'll notice a section labeled "Custom Item ID:"
 This is where you can add modded items that fall under more than one category of tool. For example, some mods have tools that 
@@ -48,7 +54,7 @@ Be sure to select at least one, or it won't be added.
    Type - paxel,
    Interactions - (Pickaxe, Axe, Shovel)
 
-(WEAPONS)
+WEAPONS
 =
 In the Weapons Tab, the sword and trident have a box for entering damage values.
 These values are written as decimal numbers: X.X
@@ -56,22 +62,32 @@ These values are written as decimal numbers: X.X
 (Technically you can make this value whatever you wish, but bugs may occur, so perform at your own risk!)
 
 
-(ARMOR)
+ARMOR
 =========================================================================================
 In the Armor Tab, both the chestplate and boots have some extra features.
 Both allow for the user to specify the amount of basic Armor, Armor Toughness, and Knockback Resistance. These values are applied to the item only AFTER the 
 Life Plus or Agility enchantment is added to the armor pieces.
 
-Armor, Toughness, and Knockback Resist are measured as a decimal. (ex. 5.0, 2.3, and 0.4 respectively), and if nothing is inputted into knockback, will default to 0.0
+Armor, Toughness, and Knockback Resist are measured as a decimal. (ex. 5.0, 2.3, and 0.4 respectively), if an armor piece doesn't have one of the three number values, just input 0.
 
-(Technically you can make these values whatever you wish, but bugs may occur, so perform at your own risk!)
-
-(PRESETS)
+Presets
 =
-Currently Included Presets:
-  * Gobber2 Mod
+From the main menu, you'll see a Preset menu button. 
+This is where you can load or delete any presets you have. 
+The window next to the selection drop down provides a preview of what the preset has in it before you load it.
+A Save Preset button is always present at the bottom-left of the app.
+
+Currently the following presets are included:
+
+  * Goober2
+  * Impaled
+  * Upgraded Netherite
+  * Go Fish
+  * Better Nether
+  * Better End
   
-More built-in presets will be added in the future. For now, if you are updating to a newer version, copy over the presetNames.txt and presets folder to the new assets folder.
+More built-in presets will be added in the future. 
+Due to file format changes of v2.0.0, if you are updating to a newer version, any preset made in a older version won't be compatible.
 
 (Troubleshooting)
 =
