@@ -90,8 +90,8 @@ Currently the following presets are included:
 
 (For Go Fish: To get the vanilla rod to work on the table, you'll need to add "minecraft:fishing_rod")
 
-More built-in presets will be added in the future. 
 Due to file format changes of v2.0.0, if you are updating to a newer version, any preset made in a older version won't be compatible.
+If there are any more presets that you would like to see add by default, let me know!
 
 (Troubleshooting
 =
