@@ -83,14 +83,17 @@ Currently the following presets are included:
   * Goober2
   * Impaled
   * Upgraded Netherite
-  * Go Fish
+  * Go Fish 
   * Better Nether
   * Better End
-  
+ 
+
+(For Go Fish: To get the vanilla rod to work on the table, you'll need to add "minecraft:fishing_rod")
+
 More built-in presets will be added in the future. 
 Due to file format changes of v2.0.0, if you are updating to a newer version, any preset made in a older version won't be compatible.
 
-(Troubleshooting)
+(Troubleshooting
 =
 A troubleshooting button is present on the main menu. 
 If your complement isn't functioning properly when in-game, there could be one or more factors involved.
