@@ -1,0 +1,4 @@
+"betterend:aeternium_boots", 3.5, 4, 2
+"betterend:crystalite_boots", 1.2, 3, 1
+"betterend:thallasium_boots", 0, 1, 0
+"betterend:terminite_boots", 1, 3, 0.5

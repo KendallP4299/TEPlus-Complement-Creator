@@ -1,0 +1,2 @@
+"betternether:cincinnasite_helmet"
+"betternether:nether_ruby_helmet"

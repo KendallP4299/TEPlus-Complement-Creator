@@ -1,0 +1,4 @@
+"betterend:aeternium_chestplate", 3.5, 9, 2
+"betterend:crystalite_chestplate", 1.2, 8, 1
+"betterend:thallasium_chestplate", 0, 5, 0
+"betterend:terminite_chestplate", 1, 7, 0.5

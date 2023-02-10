@@ -1,0 +1,4 @@
+"betterend:aeternium_leggings"
+"betterend:crystalite_leggings"
+"betterend:thallasium_leggings"
+"betterend:terminite_leggings"

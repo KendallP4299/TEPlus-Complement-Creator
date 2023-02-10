@@ -1,0 +1,2 @@
+"betternether:cincinnasite_leggings"
+"betternether:nether_ruby_leggings"

@@ -1,0 +1,2 @@
+"betternether:cincinnasite_boots", 3, 3, 0.1
+"betternether:nether_ruby_boots", 3, 2.4, 2

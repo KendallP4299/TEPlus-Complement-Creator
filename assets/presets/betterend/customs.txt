@@ -1,0 +1,3 @@
+"betterend:thallasium_hammer", hammer, Checked, Unchecked, Unchecked
+"betterend:aeternium_hammer", hammer, Checked, Unchecked, Unchecked
+"betterend:terminite_hammer", hammer, Checked, Unchecked, Unchecked

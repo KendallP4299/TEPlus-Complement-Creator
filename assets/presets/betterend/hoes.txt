@@ -1,0 +1,3 @@
+"betterend:aeternium_hoe"
+"betterend:thallasium_hoe"
+"betterend:terminite_hoe"

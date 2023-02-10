@@ -1,0 +1,3 @@
+"gobber2:gobber2_axe"
+"gobber2:gobber2_axe_nether"
+"gobber2:gobber2_axe_end"

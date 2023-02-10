@@ -1,0 +1,3 @@
+"betterend:aeternium_axe"
+"betterend:thallasium_axe"
+"betterend:terminite_axe"

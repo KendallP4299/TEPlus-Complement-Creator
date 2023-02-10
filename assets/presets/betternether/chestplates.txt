@@ -1,0 +1,2 @@
+"betternether:cincinnasite_chestplate", 6, 1, 0.5
+"betternether:nether_ruby_chestplate", 8, 2.4, 2

@@ -1,0 +1,4 @@
+"gobber2:gobber2_helmet"
+"gobber2:gobber2_helmet_nether"
+"gobber2:gobber2_helmet_end"
+"gobber2:gobber2_helmet_dragon"

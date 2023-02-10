@@ -1,0 +1,5 @@
+"impaled:pitchfork", 9
+"impaled:hellfork", 9
+"impaled:soulfork", 9
+"impaled:elder_trident", 9
+"impaled:atlan", 9

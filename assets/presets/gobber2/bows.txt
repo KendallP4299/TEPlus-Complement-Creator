@@ -1,0 +1,3 @@
+"gobber2:gobber2_bow"
+"gobber2:gobber2_bow_nether"
+"gobber2:gobber2_bow_end"

@@ -1,0 +1,13 @@
+"gobber2:gobber2_paxel", paxel, Checked, Checked, Checked
+"gobber2:gobber2_paxel_nether", paxel, Checked, Checked, Checked
+"gobber2:gobber2_paxel_end", paxel, Checked, Checked, Checked
+"gobber2:gobber2_paxel_stars", paxel, Checked, Checked, Checked
+"gobber2:gobber2_hammer", hammer, Checked, Unchecked, Unchecked
+"gobber2:gobber2_hammer_nether", hammer, Checked, Unchecked, Unchecked
+"gobber2:gobber2_hammer_end", hammer, Checked, Unchecked, Unchecked
+"gobber2:gobber2_excavator", excavator, Unchecked, Unchecked, Checked
+"gobber2:gobber2_excavator_nether", excavator, Unchecked, Unchecked, Checked
+"gobber2:gobber2_excavator_end", excavator, Unchecked, Unchecked, Checked
+"gobber2:gobber2_tree_axe", treeaxe, Unchecked, Checked, Unchecked
+"gobber2:gobber2_tree_axe_nether", treeaxe, Unchecked, Checked, Unchecked
+"gobber2:gobber2_tree_axe_end", treeaxe, Unchecked, Checked, Unchecked

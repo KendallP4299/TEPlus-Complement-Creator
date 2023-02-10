@@ -1,0 +1,4 @@
+"gobber2:gobber2_sword", 11
+"gobber2:gobber2_sword_nether", 13
+"gobber2:gobber2_sword_end", 16
+"gobber2:gobber2_sword_sniper", 16

@@ -1,0 +1,3 @@
+"betternether:cincinnasite_sword", 6
+"betternether:cincinnasite_sword_diamond", 7
+"betternether:nether_ruby_sword", 9

@@ -1,0 +1,3 @@
+"betterend:aeternium_pickaxe"
+"betterend:thallasium_pickaxe"
+"betterend:terminite_pickaxe"

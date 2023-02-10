@@ -1,0 +1,2 @@
+"betterend:thallasium_shovel"
+"betterend:terminite_shovel"

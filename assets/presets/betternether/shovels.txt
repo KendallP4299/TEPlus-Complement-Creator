@@ -1,0 +1,3 @@
+"betternether:cincinnasite_shovel"
+"betternether:cincinnasite_shovel_diamond"
+"betternether:nether_ruby_shovel"

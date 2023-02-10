@@ -1,0 +1,3 @@
+"betternether:cincinnasite_axe"
+"betternether:cincinnasite_axe_diamond"
+"betternether:nether_ruby_axe"

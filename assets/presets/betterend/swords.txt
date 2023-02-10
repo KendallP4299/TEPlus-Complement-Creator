@@ -1,0 +1,2 @@
+"betterend:aeternium_sword", 8.5
+"betterend:terminite_sword", 7

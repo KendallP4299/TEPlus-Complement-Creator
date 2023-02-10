@@ -1,0 +1,3 @@
+"betterend:ender_ore"
+"betterend:amber_ore"
+"betterend:thallasium_ore"

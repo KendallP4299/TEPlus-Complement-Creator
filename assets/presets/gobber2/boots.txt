@@ -1,0 +1,4 @@
+"gobber2:gobber2_boots", 3, 6, 0
+"gobber2:gobber2_boots_nether", 3.25, 7, 1
+"gobber2:gobber2_boots_end", 3.5, 8, 2
+"gobber2:gobber2_boots_dragon", 3.75, 8, 3
