@@ -1,6 +1,3 @@
 "gobber2:gobber2_axe"
 "gobber2:gobber2_axe_nether"
 "gobber2:gobber2_axe_end"
-"gobber2:gobber2_tree_axe"
-"gobber2:gobber2_tree_axe_nether"
-"gobber2:gobber2_tree_axe_end"

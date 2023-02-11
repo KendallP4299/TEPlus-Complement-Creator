@@ -1,3 +1,0 @@
-execute if score #mnpl Enchopts matches 0 if score #teplus.rarity teplus.data matches 2.. unless data entity @s Item.tag.CustomEnchantments[{id:"VeinMiner"}] run data modify storage teplus:loot Enchantments append value {id:"MiningPlus",lvl:1}
-
-execute if score #vnmr Enchopts matches 0 if score #teplus.rarity teplus.data matches 3.. unless data entity @s Item.tag.CustomEnchantments[{id:"MiningPlus"}] run data modify storage teplus:loot Enchantments append value {id:"VeinMiner",lvl:1}

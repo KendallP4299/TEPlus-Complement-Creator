@@ -1,6 +1,3 @@
 "gobber2:gobber2_shovel"
 "gobber2:gobber2_shovel_nether"
 "gobber2:gobber2_shovel_end"
-"gobber2:gobber2_excavator"
-"gobber2:gobber2_excavator_nether"
-"gobber2:gobber2_excavator_end"

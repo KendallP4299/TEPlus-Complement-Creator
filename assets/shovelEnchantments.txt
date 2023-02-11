@@ -1,3 +1,0 @@
-execute if score #bgpt Enchopts matches 0 if score #teplus.rarity teplus.data matches 1.. run data modify storage teplus:loot Enchantments append value {id:"BigPath",lvl:1}
-
-execute if score #exc Enchopts matches 0 if score #teplus.rarity teplus.data matches 1.. run data modify storage teplus:loot Enchantments append value {id:"Excavator",lvl:1}

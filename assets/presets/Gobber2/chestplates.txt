@@ -1,4 +1,4 @@
-"gobber2:gobber2_chestplate"
-"gobber2:gobber2_chestplate_nether"
-"gobber2:gobber2_chestplate_end"
-"gobber2:gobber2_chestplate_dragon"
+"gobber2:gobber2_chestplate", 3, 11, 0
+"gobber2:gobber2_chestplate_nether", 3.25, 12, 1
+"gobber2:gobber2_chestplate_end", 3.5, 13, 2
+"gobber2:gobber2_chestplate_dragon", 3.75, 13, 3
