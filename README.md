@@ -59,6 +59,9 @@ These values are written as decimal numbers: X.X
 
 (Technically you can make this value whatever you wish, but bugs may occur, so perform at your own risk!)
 
+**New Format Example:** (Quotations Included!)  
+  * "betterend:aeternium_sword", 8.5
+
 # ARMOR
 In the Armor Tab, both the chestplate and boots have some extra features.
 Both allow for the user to specify the amount of basic Armor, Armor Toughness, and Knockback Resistance. 
@@ -66,6 +69,9 @@ If you choose to enter number value that are different than the default ones on 
 Life Plus or Agility enchantment is added to the armor pieces.
 
 Armor, Toughness, and Knockback Resist are measured as a decimal. (ex. 5.0, 2.3, and 0.4 respectively), if an armor piece doesn't have one of the three number values, just input 0.
+
+**New Format Example:** (Quotations Included!)  
+  * "betterend:aeternium_chestplate", 3.5, 9, 2
 
 # Presets
 From the main menu, you'll see a Preset menu button. 
@@ -82,11 +88,8 @@ Currently the following presets are included:
   * Better End
 (For Go Fish: To get the vanilla rod to work on the table, you'll need to add "minecraft:fishing_rod")
 
-Due to file format changes of v2.0.0, if you are updating to a newer version, any preset made in a older version won't be compatible.
-**New Format Example:**
-  (Quotations Included!)
-  
-  "betterend:aeternium_chestplate", 3.5, 9, 2
+Due to file format changes of v2.0.0, if you are updating to a newer version, any preset that were made in a older version won't be compatible. 
+**See Armor and Weapons sections for new format details.**
 
 More built-in presets will be added in the future. 
 If there are any more presets that you would like to see add by default, let me know!
