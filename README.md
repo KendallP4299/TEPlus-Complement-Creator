@@ -1,4 +1,4 @@
-# Complement-Creator-for-Technical-Enchant-Renewed
+# Complement-Creator
 
 # TE+ Complement Creator V2.1.0 for TE+ Renewed version 7.3.X
 
