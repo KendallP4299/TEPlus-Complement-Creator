@@ -11,13 +11,9 @@ Enter the a unique path name and complement name.
 A zip file will be saved to a complements folder in assets. This is where all the complements you create, will be stored.
 
 # Newest Additions/Changes
-  * Brand New Intro Video! I made a short intro for the creator, if you dont want to watch it everytime you load the app, 
-    there is a toggle below the troubleshooting button on the main menu.
-  * On the right side of the app is a display for all the currently added items. 
-    If you no longer want to include an item to a complement, or notice a typo, you can select and delete it or delete every item at once.
-  * More Preset! (see list below)
+  * Dedicated settings menu on main menu.
+  * Menu bar has been moved to left side to save space.
   * File formatting for preset data has changed, presets made before 2.0.0 are no longer supported and will throw an error. Sorry :(
-  * Veinminer and Excavator menus were combined for convenience.
   
 # Now compatible with stand-alone addons:
    * Expertise
