@@ -15,7 +15,7 @@ A zip file will be saved to a complements folder in assets. This is where all th
   * Menu bar has been moved to left side to save space.
   * File formatting for preset data has changed, presets made before 2.0.0 are no longer supported and will throw an error. Sorry :(
   
-# Now compatible with stand-alone addons:
+# Compatible with stand-alone addons:
    * Expertise
    * Compact
    * Spawner Touch
