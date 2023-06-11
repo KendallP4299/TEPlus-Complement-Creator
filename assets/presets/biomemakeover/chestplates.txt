@@ -1,0 +1,1 @@
+"biomemakeover:cladded_chestplate", 0, 6, 0.7

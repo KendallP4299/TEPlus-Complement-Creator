@@ -1,0 +1,2 @@
+"additionaladditions:rose_gold_axe"
+"additionaladditions:gilded_netherite_axe"

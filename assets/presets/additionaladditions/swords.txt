@@ -1,0 +1,2 @@
+"additionaladditions:rose_gold_sword", 7
+"additionaladditions:gilded_netherite_sword", 8
