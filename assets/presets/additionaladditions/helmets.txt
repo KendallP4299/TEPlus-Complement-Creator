@@ -1,1 +1,2 @@
 "additionaladditions:gilded_netherite_helmet"
+"additionaladditions:rose_gold_helmet"

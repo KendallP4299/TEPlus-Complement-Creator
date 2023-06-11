@@ -1,1 +1,2 @@
 "additionaladditions:gilded_netherite_leggings"
+"additionaladditions:rose_gold_leggings"

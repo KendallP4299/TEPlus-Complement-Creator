@@ -1,1 +1,2 @@
 "additionaladditions:gilded_netherite_boots", 2.5, 3, 1
+"additionaladditions:rose_gold_boots", 1, 2, 0

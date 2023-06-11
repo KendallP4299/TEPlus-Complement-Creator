@@ -1,1 +1,2 @@
 "additionaladditions:gilded_netherite_chestplate", 2.5, 8, 1
+"additionaladditions:rose_gold_chestplate", 1, 7, 0
