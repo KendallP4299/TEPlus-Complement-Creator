@@ -1,4 +1,4 @@
-# TE+ Complement Creator V2.1.0 for TE+ Renewed version 7.3.1
+# TE+ Complement Creator V2.2.0 for TE+ Renewed version 7.3.X
 
 This application, made by Kendall Payton(Ziromanean#3173 on discord), 
 is for the creation of custom complements to the "Technical Enchant+ Renewed"! Datapack (created by Frektip)
@@ -13,6 +13,7 @@ A zip file will be saved to a complements folder in assets. This is where all th
 # Newest Additions/Changes
   * Dedicated settings menu on main menu.
   * Menu bar has been moved to left side to save space.
+  * New built-in complements and presets.
   * File formatting for preset data has changed, presets made before 2.0.0 are no longer supported and will throw an error. Sorry :(
   
 # Compatible with stand-alone addons:
@@ -80,6 +81,10 @@ Currently the following presets are included:
   * Go Fish 
   * Better Nether
   * Better End
+  * Additional Additions
+  * Biomemakeover
+  * Immersive Armors
+  * Mythic Metals
 (For Go Fish: To get the vanilla rod to work on the table, you'll need to add "minecraft:fishing_rod")
 
 Due to file format changes of v2.0.0, if you are updating to a newer version, any preset that were made in a older version won't be compatible. 
