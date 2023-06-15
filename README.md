@@ -86,6 +86,7 @@ Currently the following presets are included:
   * Immersive Armors
   * Mythic Metals
   * Ad Astra
+
 (For Go Fish: To get the vanilla rod to work on the table, you'll need to add "minecraft:fishing_rod")
 
 Due to file format changes of v2.0.0, if you are updating to a newer version, any preset that were made in a older version won't be compatible. 
