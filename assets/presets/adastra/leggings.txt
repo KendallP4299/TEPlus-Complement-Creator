@@ -1,0 +1,3 @@
+"ad_astra:space_pants"
+"ad_astra:netherite_space_pants"
+"ad_astra:jet_suit_pants"

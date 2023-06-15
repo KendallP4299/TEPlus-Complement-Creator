@@ -1,0 +1,3 @@
+"ad_astra:space_boots", 0, 2, 0
+"ad_astra:netherite_space_boots", 3, 3, 1
+"ad_astra:jet_suit_boots", 5, 4, 1.25
