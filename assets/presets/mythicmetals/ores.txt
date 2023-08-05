@@ -32,4 +32,4 @@
 "mythicmetals:blackstone_stormyx_ore"
 "mythicmetals:tin_ore"
 "mythicmetals:unobtainium_ore"
-"mythicmetals:deeplate_unobtainium_ore"
+"mythicmetals:deepslate_unobtainium_ore"
