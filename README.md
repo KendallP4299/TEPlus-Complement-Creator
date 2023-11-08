@@ -15,6 +15,7 @@ A zip file will be saved to a complements folder in assets. This is where all th
   * File formatting for preset data has changed, presets made before 2.0.0 are no longer supported and will throw an error. Sorry :(
 
 # Custom Addon Support
+(Currently, this is only for the three main tool types)
 In the Addon Support tab, you wil be able to add support for your custom item types to be enchanted with the addons that you've created.
 If you have made your own addon datapacks for Technical Enchant+ before, the following is a list of things you'll need to know for this section:
    * The ID of the addon being added.
