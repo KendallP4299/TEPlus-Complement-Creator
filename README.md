@@ -1,4 +1,4 @@
-# TE+ Complement Creator V2.2.4 for TE+ Renewed version 7.3.X
+# TE+ Complement Creator V2.3.0 for TE+ Renewed version 7.4.0
 
 This application, made by Kendall Payton(Ziromanean#3173 on discord), 
 is for the creation of custom complements to the "Technical Enchant+ Renewed"! Datapack (created by Frektip)
@@ -11,11 +11,21 @@ Enter the a unique path name and complement name.
 A zip file will be saved to a complements folder in assets. This is where all the complements you create, will be stored.
 
 # Newest Additions/Changes
-  * Dedicated settings menu on main menu.
-  * Menu bar has been moved to left side to save space.
-  * New built-in complements and presets.
+  * Custom addon support
   * File formatting for preset data has changed, presets made before 2.0.0 are no longer supported and will throw an error. Sorry :(
-  
+
+# Custom Addon Support
+In the Addon Support tab, you wil be able to add support for your custom item types to be enchanted with the addons that you've created.
+If you have made your own addon datapacks for Technical Enchant+ before, the following is a list of things you'll need to know for this section:
+   * The ID of the addon being added.
+   * The name of the addon folder located at: (addon).zip\\data\\<ADDON PARENT FOLDER NAME>.
+   * The name of the MCFunction file located at: <PARENT FOLDER>:teplus/techanv/interaction/merge/<MCFUNCTION NAME>.
+   * The level of the addon enchantment.
+   * What tool type the addon is for.
+   * And, if the addon has incompatibilities, the ID of said enchantment and if it is a custom or vanilla enchantment.
+
+Once you have added all the addons you wish, you can build the pack as normal and add it to your world save!
+   
 # Compatible with stand-alone addons:
    * Expertise
    * Compact
