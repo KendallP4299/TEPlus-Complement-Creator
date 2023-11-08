@@ -1,10 +1,10 @@
 {
 	"pack":
 	{
-		"pack_format": 12,
+		"pack_format": 18,
 		"description": [
             {
-                "text": "a TE+ complement ",
+                "text": "a TE+ complement made with Complement Creator",
                 "color": "#2EFFC7"
             }
         ]
